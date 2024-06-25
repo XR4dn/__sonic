@@ -64,6 +64,9 @@ Run the bot using Node.js:
 
 ```bash
 npm start
+
+git pull && npm start
+
 ```
 
 Follow the prompts to:
